@@ -1,0 +1,37 @@
+{
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "775917e9-3540-4c65-b4d5-13b7d3dfc087",
+        "name": "Charts",
+        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
+    },
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "ffaf615d-622d-4a60-bb3b-3a5591b9bfa3",
+        "name": "REST API",
+        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "6a64802c-52f8-4637-9932-580bf178aaa7": {
+        "id": "99f7dd85-c3b7-4bc0-8758-9d8737cb54c9",
+        "name": "WeWeb Auth",
+        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
+        "pluginId": "6a64802c-52f8-4637-9932-580bf178aaa7",
+        "publicData": {
+            "clientId": "7ovt1nclglt20qamrld1kj1gar",
+            "userPoolId": "us-east-1_AChfxwYXV",
+            "invitationEmail": {
+                "EmailMessage": "Hi,<br/><br/>You have been invited to join the <b>v0.1</b> application.<br/>Please login with your email <b>{username}</b> using the password below:<br/><b>{####}</b><br/><br/>Best.",
+                "EmailSubject": "Invitation to join v0.1 application"
+            },
+            "verificationEmail": {
+                "EmailMessage": "Hi,<br/><br/>Here is your verification code <b>{####}</b> to change your password on the <b>v0.1</b> application.<br/><br/>Best.<br/>",
+                "EmailSubject": "Your verification code for v0.1 application",
+                "DefaultEmailOption": "CONFIRM_WITH_CODE"
+            },
+            "afterForbiddenPageId": "9521fa27-5477-49a7-9133-1148061410f2",
+            "afterNotSignInPageId": "9521fa27-5477-49a7-9133-1148061410f2"
+        }
+    }
+}
