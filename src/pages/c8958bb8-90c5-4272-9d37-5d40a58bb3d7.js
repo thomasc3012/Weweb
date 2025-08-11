@@ -5,7 +5,6 @@ import app from '@/_front/main.js';
 import element_1b1e2173_9b78_42cc_a8ee_a6167caea340 from '@/components/elements/element-1b1e2173-9b78-42cc-a8ee-a6167caea340/src/wwElement.vue';
 import element_1ba25bdf_dee9_4e0e_a0b8_b3f3128c3b65 from '@/components/elements/element-1ba25bdf-dee9-4e0e-a0b8-b3f3128c3b65/src/wwElement.vue';
 import element_59dca300_db78_42e4_a7a6_0cbf22d3cc82 from '@/components/elements/element-59dca300-db78-42e4-a7a6-0cbf22d3cc82/src/wwElement.vue';
-import element_6145eb60_0af8_4e52_bcc6_dc0f6743654e from '@/components/elements/element-6145eb60-0af8-4e52-bcc6-dc0f6743654e/./src/wwElement_Select.vue';
 import element_6f8796b1_8273_498d_95fc_7013b7c63214 from '@/components/elements/element-6f8796b1-8273-498d-95fc-7013b7c63214/src/wwElement.vue';
 import element_7179ba70_c5d7_49a5_9828_f85704fd1efc from '@/components/elements/element-7179ba70-c5d7-49a5-9828-f85704fd1efc/src/wwElement.vue';
 import element_aa27b26f_0686_4c29_98c5_8217044045b7 from '@/components/elements/element-aa27b26f-0686-4c29-98c5-8217044045b7/src/wwElement.vue';
@@ -17,7 +16,6 @@ import element_d7904e9d_fc9a_4d80_9e32_728e097879ad from '@/components/elements/
 app.component('wwobject-1b1e2173-9b78-42cc-a8ee-a6167caea340', element_1b1e2173_9b78_42cc_a8ee_a6167caea340);
 app.component('wwobject-1ba25bdf-dee9-4e0e-a0b8-b3f3128c3b65', element_1ba25bdf_dee9_4e0e_a0b8_b3f3128c3b65);
 app.component('wwobject-59dca300-db78-42e4-a7a6-0cbf22d3cc82', element_59dca300_db78_42e4_a7a6_0cbf22d3cc82);
-app.component('wwobject-6145eb60-0af8-4e52-bcc6-dc0f6743654e', element_6145eb60_0af8_4e52_bcc6_dc0f6743654e);
 app.component('wwobject-6f8796b1-8273-498d-95fc-7013b7c63214', element_6f8796b1_8273_498d_95fc_7013b7c63214);
 app.component('wwobject-7179ba70-c5d7-49a5-9828-f85704fd1efc', element_7179ba70_c5d7_49a5_9828_f85704fd1efc);
 app.component('wwobject-aa27b26f-0686-4c29-98c5-8217044045b7', element_aa27b26f_0686_4c29_98c5_8217044045b7);
