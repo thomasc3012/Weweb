@@ -40,5 +40,12 @@
             "afterForbiddenPageId": "9521fa27-5477-49a7-9133-1148061410f2",
             "afterNotSignInPageId": "9521fa27-5477-49a7-9133-1148061410f2"
         }
+    },
+    "66a79c98-70e7-4bc4-8859-20776b024ec2": {
+        "id": "b201f680-576c-49c5-a4fd-4d7418773d8c",
+        "name": "PWA",
+        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
+        "pluginId": "66a79c98-70e7-4bc4-8859-20776b024ec2",
+        "publicData": {}
     }
 }
