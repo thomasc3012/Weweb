@@ -6,13 +6,6 @@
         "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
         "publicData": {}
     },
-    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
-        "id": "395a3549-03a5-431c-a9d8-53778e232149",
-        "name": "Supabase Auth",
-        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
-        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
-        "publicData": {}
-    },
     "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
         "id": "ffaf615d-622d-4a60-bb3b-3a5591b9bfa3",
         "name": "REST API",
@@ -47,5 +40,15 @@
         "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
         "pluginId": "66a79c98-70e7-4bc4-8859-20776b024ec2",
         "publicData": {}
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "42540c3e-2886-4578-8d3c-ab8fb95a9a43",
+        "name": "Supabase Auth",
+        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "projectUrl": "https://pfuzzldcbhjbqygnjusy.supabase.co",
+            "customDomain": "https://epentechnologyproject.vercel.app"
+        }
     }
 }
