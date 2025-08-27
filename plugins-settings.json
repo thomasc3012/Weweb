@@ -40,15 +40,5 @@
         "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
         "pluginId": "66a79c98-70e7-4bc4-8859-20776b024ec2",
         "publicData": {}
-    },
-    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
-        "id": "42540c3e-2886-4578-8d3c-ab8fb95a9a43",
-        "name": "Supabase Auth",
-        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
-        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
-        "publicData": {
-            "projectUrl": "https://pfuzzldcbhjbqygnjusy.supabase.co",
-            "customDomain": "https://epentechnologyproject.vercel.app"
-        }
     }
 }
