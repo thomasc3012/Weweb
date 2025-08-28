@@ -6,16 +6,6 @@
         "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
         "publicData": {}
     },
-    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
-        "id": "56f62757-6634-4417-a63b-477a6580e0ab",
-        "name": "Supabase Auth",
-        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
-        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
-        "publicData": {
-            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBmdXp6bGRjYmhqYnF5Z25qdXN5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTYyMTk2NjUsImV4cCI6MjA3MTc5NTY2NX0.Gwh0dM38enNVmv21BM2BmHiMlM6_pxcoa5BZE6Fam2E",
-            "projectUrl": "https://pfuzzldcbhjbqygnjusy.supabase.co"
-        }
-    },
     "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
         "id": "db1cc283-a214-45ba-8866-af8113b175fc",
         "name": "Supabase",
@@ -24,9 +14,21 @@
         "publicData": {
             "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBmdXp6bGRjYmhqYnF5Z25qdXN5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTYyMTk2NjUsImV4cCI6MjA3MTc5NTY2NX0.Gwh0dM38enNVmv21BM2BmHiMlM6_pxcoa5BZE6Fam2E",
             "projectUrl": "https://pfuzzldcbhjbqygnjusy.supabase.co",
+            "customDomain": "https://epentechnologyproject.vercel.app/",
             "realtimeTables": {
                 "API settigns": true
             }
+        }
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "56f62757-6634-4417-a63b-477a6580e0ab",
+        "name": "Supabase Auth",
+        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBmdXp6bGRjYmhqYnF5Z25qdXN5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTYyMTk2NjUsImV4cCI6MjA3MTc5NTY2NX0.Gwh0dM38enNVmv21BM2BmHiMlM6_pxcoa5BZE6Fam2E",
+            "projectUrl": "https://pfuzzldcbhjbqygnjusy.supabase.co",
+            "customDomain": "https://epentechnologyproject.vercel.app/"
         }
     },
     "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
