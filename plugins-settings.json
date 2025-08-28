@@ -1,34 +1,43 @@
 {
     "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
-        "id": "775917e9-3540-4c65-b4d5-13b7d3dfc087",
+        "id": "cea80b88-21e2-4551-bd2c-e117aa96b682",
         "name": "Charts",
-        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
+        "designId": "91360dec-d376-4bde-b5b6-af804c854d83",
         "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
         "publicData": {}
     },
     "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
-        "id": "54a41263-5c1a-43cc-b31e-25742e1a1323",
+        "id": "8ae4aac6-72b5-4cec-b8bd-2dd054f2eb37",
         "name": "Supabase",
-        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
+        "designId": "91360dec-d376-4bde-b5b6-af804c854d83",
         "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
         "publicData": {
             "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBmdXp6bGRjYmhqYnF5Z25qdXN5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTYyMTk2NjUsImV4cCI6MjA3MTc5NTY2NX0.Gwh0dM38enNVmv21BM2BmHiMlM6_pxcoa5BZE6Fam2E",
             "projectUrl": "https://pfuzzldcbhjbqygnjusy.supabase.co",
-            "customDomain": "https://epentechnologyproject.vercel.app",
-            "realtimeTables": {}
+            "customDomain": "",
+            "realtimeTables": {
+                "API settigns": true
+            }
         }
     },
     "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
-        "id": "ffaf615d-622d-4a60-bb3b-3a5591b9bfa3",
+        "id": "42004af7-8bf0-412f-a520-1fc23e6415db",
         "name": "REST API",
-        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
+        "designId": "91360dec-d376-4bde-b5b6-af804c854d83",
         "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
         "publicData": {}
     },
+    "66a79c98-70e7-4bc4-8859-20776b024ec2": {
+        "id": "a4518b8b-8545-4d99-8f20-5abf5c45233a",
+        "name": "PWA",
+        "designId": "91360dec-d376-4bde-b5b6-af804c854d83",
+        "pluginId": "66a79c98-70e7-4bc4-8859-20776b024ec2",
+        "publicData": {}
+    },
     "6a64802c-52f8-4637-9932-580bf178aaa7": {
-        "id": "99f7dd85-c3b7-4bc0-8758-9d8737cb54c9",
+        "id": "d73f4c11-c3ff-4ab5-80e4-7f29937c366e",
         "name": "WeWeb Auth",
-        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
+        "designId": "91360dec-d376-4bde-b5b6-af804c854d83",
         "pluginId": "6a64802c-52f8-4637-9932-580bf178aaa7",
         "publicData": {
             "clientId": "7ovt1nclglt20qamrld1kj1gar",
@@ -42,15 +51,8 @@
                 "EmailSubject": "Your verification code for v0.1 application",
                 "DefaultEmailOption": "CONFIRM_WITH_CODE"
             },
-            "afterForbiddenPageId": "9521fa27-5477-49a7-9133-1148061410f2",
-            "afterNotSignInPageId": "9521fa27-5477-49a7-9133-1148061410f2"
+            "afterForbiddenPageId": "fe3d669d-51ab-4974-88df-03dab88fc9be",
+            "afterNotSignInPageId": "fe3d669d-51ab-4974-88df-03dab88fc9be"
         }
-    },
-    "66a79c98-70e7-4bc4-8859-20776b024ec2": {
-        "id": "b201f680-576c-49c5-a4fd-4d7418773d8c",
-        "name": "PWA",
-        "designId": "8358f841-897f-4c3d-a497-c7288ebc2c5f",
-        "pluginId": "66a79c98-70e7-4bc4-8859-20776b024ec2",
-        "publicData": {}
     }
 }
