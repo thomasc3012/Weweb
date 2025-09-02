@@ -1,11 +1,4 @@
 {
-    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
-        "id": "cea80b88-21e2-4551-bd2c-e117aa96b682",
-        "name": "Charts",
-        "designId": "91360dec-d376-4bde-b5b6-af804c854d83",
-        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
-        "publicData": {}
-    },
     "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
         "id": "8ae4aac6-72b5-4cec-b8bd-2dd054f2eb37",
         "name": "Supabase",
@@ -19,6 +12,13 @@
                 "API settigns": true
             }
         }
+    },
+    "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
+        "id": "cea80b88-21e2-4551-bd2c-e117aa96b682",
+        "name": "Charts",
+        "designId": "91360dec-d376-4bde-b5b6-af804c854d83",
+        "pluginId": "9c40819b-4a8f-468f-9ba5-4b9699f3361f",
+        "publicData": {}
     },
     "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
         "id": "42004af7-8bf0-412f-a520-1fc23e6415db",
