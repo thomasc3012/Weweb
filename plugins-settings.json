@@ -1,18 +1,4 @@
 {
-    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
-        "id": "8ae4aac6-72b5-4cec-b8bd-2dd054f2eb37",
-        "name": "Supabase",
-        "designId": "91360dec-d376-4bde-b5b6-af804c854d83",
-        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
-        "publicData": {
-            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBmdXp6bGRjYmhqYnF5Z25qdXN5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTYyMTk2NjUsImV4cCI6MjA3MTc5NTY2NX0.Gwh0dM38enNVmv21BM2BmHiMlM6_pxcoa5BZE6Fam2E",
-            "projectUrl": "https://pfuzzldcbhjbqygnjusy.supabase.co",
-            "customDomain": "",
-            "realtimeTables": {
-                "API settigns": true
-            }
-        }
-    },
     "9c40819b-4a8f-468f-9ba5-4b9699f3361f": {
         "id": "cea80b88-21e2-4551-bd2c-e117aa96b682",
         "name": "Charts",
@@ -53,6 +39,20 @@
             },
             "afterForbiddenPageId": "fe3d669d-51ab-4974-88df-03dab88fc9be",
             "afterNotSignInPageId": "fe3d669d-51ab-4974-88df-03dab88fc9be"
+        }
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "8ae4aac6-72b5-4cec-b8bd-2dd054f2eb37",
+        "name": "Supabase",
+        "designId": "91360dec-d376-4bde-b5b6-af804c854d83",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InBmdXp6bGRjYmhqYnF5Z25qdXN5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTYyMTk2NjUsImV4cCI6MjA3MTc5NTY2NX0.Gwh0dM38enNVmv21BM2BmHiMlM6_pxcoa5BZE6Fam2E",
+            "projectUrl": "https://pfuzzldcbhjbqygnjusy.supabase.co",
+            "customDomain": "",
+            "realtimeTables": {
+                "API settigns": true
+            }
         }
     }
 }
